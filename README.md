@@ -1,6 +1,8 @@
-## A code repository of pricing libraries
+## A code repository of pricing librarie
 
-## Code structure (TBA)
+**Instruction:** 
+- Download This main branch repo to desktop. 
+- Set working directory：~\quantum_cnpwc
 
 
 ### 1. DCF模型
