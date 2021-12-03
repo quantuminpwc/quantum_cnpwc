@@ -1,4 +1,4 @@
-## A code repository of pricing librarie
+## A code repository of pricing libraries
 
 **Instruction:** 
 - Download This main branch repo to desktop. 
